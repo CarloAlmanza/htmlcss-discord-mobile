@@ -5,12 +5,12 @@
 }
 
 body{
-    width: 512px;
-    margin: 0;
+   max-width: 512px;
+    margin: 0 auto;
 }
 
-.prima img{
-    width: 512px;
-    margin: 0;
-    padding: 0;
+header img{
+    width: 100%;
+    display: block;
 }
+
