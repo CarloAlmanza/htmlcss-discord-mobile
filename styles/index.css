@@ -7,6 +7,9 @@
 body{
    max-width: 512px;
     margin: 0 auto;
+    background-color: hsl(237.55deg 66.22% 29.02%);
+     font-family: "DM Sans", sans-serif;
+
 }
 
 header img{
@@ -14,3 +17,37 @@ header img{
     display: block;
 }
 
+
+.parte-1{
+    margin: 100px 100px 50px;
+}
+
+
+h1{
+    color: white;
+     font-family: "Sigmar", sans-serif;
+     text-align: center;
+     line-height: 1;
+    margin-bottom: 10px;
+}
+
+.testo-1{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+.bottone-download{
+    padding: 15px 70px;
+    margin: 20px auto;
+    border-radius: 20px;
+    display: inline-flex;
+    gap: 5px;
+}
+
+.bottone-discord{
+    padding: 15px 62px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(71 80 199);
+}
