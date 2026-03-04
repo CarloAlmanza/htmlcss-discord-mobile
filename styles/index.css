@@ -51,3 +51,41 @@ h1{
     color: white;
     background-color: rgb(71 80 199);
 }
+
+.parte-2{
+    margin: 50px;
+    padding: 60px 20px;
+    background-color: rgb(93 100 208);
+    border-radius: 20px;
+    position: relative;
+
+}
+
+h2{
+   color: white;
+     font-family: "Sigmar", sans-serif;
+     text-align: left;
+     line-height: 1;
+    margin-bottom: 10px;
+    font-size: 32px;
+    margin-right: 30px;
+}
+
+.testo-2{
+    color: white;
+    text-align: left;
+}
+
+
+.immagine-cubo{
+    position: absolute;
+    width: 100px;
+    top: -50px;
+    left: 50px;
+}
+
+.immagine-1{
+    width: 370px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
