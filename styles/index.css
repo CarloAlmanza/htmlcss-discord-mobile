@@ -77,14 +77,14 @@ h2{
 }
 
 
-.immagine-cubo{
+.immagine-absolute{
     position: absolute;
     width: 100px;
     top: -50px;
     left: 50px;
 }
 
-.immagine-1{
+.immagini{
     width: 370px;
     margin-top: 20px;
     border-radius: 20px;
