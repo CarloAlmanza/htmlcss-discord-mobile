@@ -55,9 +55,10 @@ h1{
 .parte-2{
     margin: 50px;
     padding: 60px 20px;
-    background-color: rgb(93 100 208);
+    /* background-color: rgb(93 100 208); */
     border-radius: 20px;
     position: relative;
+    background: linear-gradient(to bottom, rgb(47 49 133), rgb(85 96 231));
 
 }
 
